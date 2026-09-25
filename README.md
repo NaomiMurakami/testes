@@ -1,2 +1,2 @@
-# testes
-Bem-vindos ao projetos de "testes".  Sem temas específicos, apenas para aprender e praticar.
+# Resumo acadêmico
+Resumo de natureza teórica e perspectiva qualitativa com base em artigos científicos.
